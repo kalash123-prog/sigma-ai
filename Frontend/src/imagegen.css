@@ -1,0 +1,29 @@
+.image-page {
+  width: 100%;
+  padding: 30px;
+}
+
+.image-page h1 {
+  margin-bottom: 20px;
+}
+
+.image-page input {
+  width: 80%;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+
+.image-page button {
+  margin-left: 10px;
+  padding: 12px 20px;
+  cursor: pointer;
+}
+
+.generated-image {
+  margin-top: 30px;
+  max-width: 600px;
+  width: 100%;
+  border-radius: 12px;
+}
