@@ -2,7 +2,7 @@
 node_modules/
 
 # Environment file
-backend/.env
+Backend/.env
 
 # Build folders
 build/
